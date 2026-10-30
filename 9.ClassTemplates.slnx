@@ -6,4 +6,5 @@
   <Project Path="01.ClassTemplates/01.ClassTemplates.vcxproj" Id="9b890b46-db07-4cc9-82d5-6141f81133e1" />
   <Project Path="02.InitializerListSpec/02.InitializerListSpec.vcxproj" Id="331a0c78-2e37-422f-85da-d88bc21b97d0" />
   <Project Path="HomeWork29/HomeWork29.vcxproj" Id="49bf1abd-e458-4e79-8b89-710987e9a7f9" />
+  <Project Path="HW29Solution/HW29Solution.vcxproj" Id="733207b7-3999-4ead-a919-a5054dc31001" />
 </Solution>
